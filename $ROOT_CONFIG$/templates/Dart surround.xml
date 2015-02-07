@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <templateSet group="Dart surround">
   <template name="B" value="{$SELECTION$}" description="Surround with {}" toReformat="true" toShortenFQNames="true">
     <context />
@@ -8,4 +7,3 @@
     <context />
   </template>
 </templateSet>
-
