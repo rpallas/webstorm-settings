@@ -1,0 +1,15 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.multiCaretsEnabled" value="true" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="installation.uid" value="8586615d-caf7-4e02-a823-481c19ba28ce" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+  </component>
+</application>
