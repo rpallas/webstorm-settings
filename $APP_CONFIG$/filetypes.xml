@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+    <extensionMap>
+      <mapping pattern=".bowerrc" type="JSON" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping ext="006" type="PLAIN_TEXT" />
+      <mapping ext="002" type="PLAIN_TEXT" />
+      <mapping ext="001" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
