@@ -12,6 +12,8 @@
     <property name="javascript.grunt_toolwindow_splitter" value="0.2173913" />
     <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
     <property name="Non-Project Files" value="Yellow" />
-    <property name="KEYMAP" value="terminal" />
+    <property name="KEYMAP" value="termin&#10;file&#10;new f&#10;terminal" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
   </component>
 </application>
