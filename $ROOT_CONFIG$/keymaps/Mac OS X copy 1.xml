@@ -1,0 +1,6 @@
+<keymap version="1" name="Mac OS X copy 1" parent="Mac OS X">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
+  </action>
+</keymap>
