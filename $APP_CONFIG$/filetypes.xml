@@ -12,12 +12,13 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="buildLabel" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="load" type="PLAIN_TEXT" />
       <mapping pattern="gitref" type="PLAIN_TEXT" />
       <mapping pattern="100" type="PLAIN_TEXT" />
       <mapping pattern="consoleDocs" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="14" />
+    <setting name="fileTypeChangedCounter" value="15" />
   </component>
 </application>
