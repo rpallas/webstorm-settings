@@ -80,11 +80,12 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-plugin-webservice" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-monitor" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-infra/sequoia-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/product-docs/sequoia-docs" />
         <option value="$USER_HOME$/dev/pair" />
@@ -104,16 +105,14 @@
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-plugin-describe" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-content/sequoia-service-storage" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-airside/sequoia-service-airside" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-mflow/sequoia-service-callbacks" />
       </list>
     </option>
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-dataservice" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-plugin-webservice" />
+    <option name="lastPath" value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
   </component>
   <component name="Registry">
     <entry key="ide.mac.message.dialogs.as.sheets" value="true" />
