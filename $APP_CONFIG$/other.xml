@@ -81,13 +81,13 @@
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-util" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-tools/sequoia-slack-bot" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-plugin-webservice" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-monitor" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-infra/sequoia-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/product-docs/sequoia-docs" />
         <option value="$USER_HOME$/dev/pair" />
