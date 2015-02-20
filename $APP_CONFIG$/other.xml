@@ -114,6 +114,8 @@
         <option value="$USER_HOME$/dev/sequoia/sequoia-infra/sequoia-registry" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-infra" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-ueng/sequoia-service-userprofile" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-content" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia/sequoia-content" />
