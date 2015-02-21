@@ -109,9 +109,6 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-infra/sequoia-registry" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-infra" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
       </list>
