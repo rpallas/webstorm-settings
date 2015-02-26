@@ -66,23 +66,16 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="urn:idea:xslt-plugin#extensions" />
-    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://exslt.org/sets" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
-  </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="text-editor" />
-      </map>
-    </option>
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
@@ -90,6 +83,7 @@
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-console" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
         <option value="$USER_HOME$/dev/sequoia/product-docs/sequoia-docs" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-cflow/sequoia-service-task" />
@@ -97,7 +91,6 @@
         <option value="$USER_HOME$/dev/sequoia/sequoia-qa/sequoia-qa-integration" />
         <option value="$USER_HOME$/dev/pair" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-qa/sequoia-qa-mflow" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-tools/sequoia-tools-minion" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-ueng/sequoia-service-userprofile" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-content" />
@@ -116,9 +109,7 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-console" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
       </list>
     </option>
