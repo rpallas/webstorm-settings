@@ -66,23 +66,23 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-console" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-console" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
         <option value="$USER_HOME$/dev/sequoia/product-docs/sequoia-docs" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-dataservice" />
@@ -109,7 +109,6 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
       </list>
     </option>
