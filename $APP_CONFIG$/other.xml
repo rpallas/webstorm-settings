@@ -109,8 +109,8 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-dataservice" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
