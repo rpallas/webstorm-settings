@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt F12" />
     <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt O" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
