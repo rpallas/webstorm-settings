@@ -110,6 +110,10 @@
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-console" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-identity" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-tools/sequoia-tools-minion" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-userprofile" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-userprofile" />
