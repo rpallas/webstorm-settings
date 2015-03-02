@@ -112,6 +112,7 @@
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-foundations/sequoia-service-userprofile" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-core/sequoia-lib-runner" />
+        <option value="$USER_HOME$/dev/sequoia/sequoia-infra/sequoia-userprofile" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia/sequoia-infra/sequoia-userprofile" />
