@@ -80,15 +80,22 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-runner" />
         <option value="$USER_HOME$/dev/pair" />
         <option value="$USER_HOME$/dev/sequoia/sequoia-ueng/sequoia-service-userprofile" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-runner" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
   </component>
   <component name="Registry">
     <entry key="ide.mac.message.dialogs.as.sheets" value="true" />
