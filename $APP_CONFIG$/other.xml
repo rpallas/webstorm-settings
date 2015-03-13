@@ -108,8 +108,6 @@
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-runner" />
-        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-console" />
-        <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/temp/smtp-test-app" />
       </list>
     </option>
