@@ -112,6 +112,8 @@
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-runner" />
         <option value="$USER_HOME$/dev/temp/smtp-test-app" />
+        <option value="$USER_HOME$/dev/sequoia/docs/sequoia-docs" />
+        <option value="$USER_HOME$/dev/sequoia-tools-minion" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia-tools-minion" />
