@@ -102,7 +102,6 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-metadata" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
       </list>
