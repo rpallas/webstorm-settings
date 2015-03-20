@@ -76,6 +76,7 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="$USER_HOME$/dev/sequoia/core/sequoia-plugin-auth" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-httpclient" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
@@ -106,7 +107,7 @@
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/sequoia/core/sequoia-lib-httpclient" />
+    <option name="lastPath" value="$USER_HOME$/dev/sequoia/core/sequoia-plugin-auth" />
   </component>
   <component name="Registry">
     <entry key="ide.mac.message.dialogs.as.sheets" value="true" />
