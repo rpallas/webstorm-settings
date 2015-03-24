@@ -76,10 +76,10 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-console" />
-        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-registry" />
-        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-identity" />
         <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-metadata" />
+        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-registry" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-console" />
+        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-identity" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-task" />
@@ -106,9 +106,11 @@
     <option name="openPaths">
       <list>
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
+        <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-metadata" />
       </list>
     </option>
-    <option name="lastPath" value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-console" />
+    <option name="lastPath" value="$USER_HOME$/dev/sequoia/processing/sequoia-service-metadata" />
   </component>
   <component name="Registry">
     <entry key="ide.mac.message.dialogs.as.sheets" value="true" />
