@@ -62,32 +62,32 @@
     <option name="EMAIL" value="" />
   </component>
   <component name="ExternalResourceManagerImpl">
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-console" />
-        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-plugin-webservice" />
         <option value="$USER_HOME$/dev/sequoia/infra" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-httpclient" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-plugin-auth" />
         <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-metadata" />
-        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-registry" />
-        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-identity" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
+        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-registry" />
+        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-identity" />
         <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-task" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-plugin-describe" />
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-runner" />
