@@ -109,7 +109,7 @@
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-identity" />
         <option value="$USER_HOME$/dev/sequoia/processing/sequoia-service-metadata" />
-        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-identity" />
+        <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-userprofile" />
