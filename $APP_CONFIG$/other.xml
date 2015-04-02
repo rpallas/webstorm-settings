@@ -107,6 +107,8 @@
       <list>
         <option value="$USER_HOME$/dev/sequoia/core/sequoia-lib-dataservice" />
         <option value="$USER_HOME$/dev/sequoia/foundations/sequoia-service-geolocation" />
+        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-identity" />
+        <option value="$USER_HOME$/dev/sequoia/infra/sequoia-registry" />
       </list>
     </option>
     <option name="lastPath" value="$USER_HOME$/dev/sequoia/infra/sequoia-registry" />
