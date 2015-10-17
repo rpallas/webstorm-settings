@@ -1,26 +1,10 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
-  <action id="ActivateGruntToolWindow">
-    <keyboard-shortcut first-keystroke="alt F11" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt F12" />
+    <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
   </action>
-  <action id="MethodDown">
-    <keyboard-shortcut first-keystroke="alt DOWN" />
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta W" />
   </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="alt UP" />
-  </action>
-  <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
-  </action>
-  <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
-  </action>
-  <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
-  </action>
-  <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
-  </action>
-  <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
-  </action>
+  <action id="EditorUnSelectWord" />
 </keymap>
