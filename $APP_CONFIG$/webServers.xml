@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f4b373bc-2ae9-42f7-a5e4-667ac63207e0" name="deleteme" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

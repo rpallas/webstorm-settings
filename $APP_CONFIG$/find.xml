@@ -1,0 +1,23 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="service-registry" />
+    <option name="defaultScopeName" value="service-registry" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="service-registry" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js</mask>
+      <mask>!node_modules</mask>
+      <mask>-node_modules/*</mask>
+      <mask>*node_modules/*</mask>
+    </recentFileMasks>
+  </component>
+</application>
