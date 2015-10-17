@@ -1,12 +1,19 @@
 <application>
-  <component name="BaseRefactoringSettings">
-    <option name="SAFE_DELETE_WHEN_DELETE" value="false" />
-    <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
-    <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
-    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
-    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
@@ -72,32 +79,26 @@
       </set>
     </option>
   </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-    </debuggers>
-  </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
-      <TextAttributes />
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
     </option>
     <option name="contextAttributes">
-      <TextAttributes />
+      <TextAttributes>
+        <option name="effectType" />
+      </TextAttributes>
     </option>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
         <value>
-          <list size="2">
-            <item index="0" class="java.lang.String" itemvalue="Jade File" />
-            <item index="1" class="java.lang.String" itemvalue="Node.js Spec" />
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="Angular Factory" />
+            <item index="1" class="java.lang.String" itemvalue="Angular Controller" />
+            <item index="2" class="java.lang.String" itemvalue="Angular Directive" />
           </list>
         </value>
       </option>
@@ -115,4 +116,5 @@
     <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" HIGHLIGHT_MODE="BY_WORD" />
 </application>

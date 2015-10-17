@@ -6,69 +6,61 @@
     <keyboard-shortcut first-keystroke="alt F12" />
     <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta W" />
-  </action>
-  <action id="ConvertIndentsToSpaces">
-    <keyboard-shortcut first-keystroke="meta alt S" />
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift control O" />
   </action>
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="LEFT" />
-  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="PAGE_DOWN" />
+    <keyboard-shortcut first-keystroke="control alt PERIOD" />
     <keyboard-shortcut first-keystroke="meta alt DOWN" />
   </action>
   <action id="EditorPageDownWithSelection">
     <keyboard-shortcut first-keystroke="shift PAGE_DOWN" />
+    <keyboard-shortcut first-keystroke="shift control alt PERIOD" />
     <keyboard-shortcut first-keystroke="shift meta alt DOWN" />
   </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="PAGE_UP" />
+    <keyboard-shortcut first-keystroke="control alt COMMA" />
     <keyboard-shortcut first-keystroke="meta alt UP" />
   </action>
   <action id="EditorPageUpWithSelection">
     <keyboard-shortcut first-keystroke="shift PAGE_UP" />
+    <keyboard-shortcut first-keystroke="shift control alt ENTER" />
     <keyboard-shortcut first-keystroke="shift meta alt UP" />
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
-  <action id="EditorScrollTop">
-    <keyboard-shortcut first-keystroke="meta alt PAGE_UP" />
-  </action>
-  <action id="ForceStepInto">
-    <keyboard-shortcut first-keystroke="shift alt F7" />
-    <keyboard-shortcut first-keystroke="control I" />
-  </action>
-  <action id="NewDirectoryProject">
-    <keyboard-shortcut first-keystroke="shift control N" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="F7" />
     <keyboard-shortcut first-keystroke="shift meta BACK_SLASH" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt TAB" />
+    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="alt O" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt TAB" />
+    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
   </action>
   <action id="PreviousDiff">
     <keyboard-shortcut first-keystroke="shift F7" />
     <keyboard-shortcut first-keystroke="shift meta QUOTE" />
-  </action>
-  <action id="StepInto">
-    <keyboard-shortcut first-keystroke="F7" />
-    <keyboard-shortcut first-keystroke="control I" />
-  </action>
-  <action id="StepOut">
-    <keyboard-shortcut first-keystroke="shift F8" />
-    <keyboard-shortcut first-keystroke="control U" />
-  </action>
-  <action id="StepOver">
-    <keyboard-shortcut first-keystroke="F8" />
-    <keyboard-shortcut first-keystroke="control O" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
@@ -85,8 +77,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
   </action>
-  <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="meta F8" />
-    <keyboard-shortcut first-keystroke="control B" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift alt D" />
   </action>
 </keymap>
