@@ -13,6 +13,10 @@
     <keyboard-shortcut first-keystroke="shift control O" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift meta alt T" />
+    <keyboard-shortcut first-keystroke="control T" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
   </action>
