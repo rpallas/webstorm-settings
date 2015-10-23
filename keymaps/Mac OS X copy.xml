@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
+  </action>
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift control O" />
   </action>
@@ -8,6 +12,10 @@
   </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="shift meta W" />
+  </action>
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
   </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift control O" />
@@ -31,5 +39,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="DELETE" />
+    <keyboard-shortcut first-keystroke="BACK_SPACE" />
   </action>
 </keymap>
