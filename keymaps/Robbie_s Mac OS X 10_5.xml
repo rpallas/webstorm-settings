@@ -1,4 +1,4 @@
-<keymap version="1" name="Mac OS X 10.5+ copy 0" parent="Mac OS X 10.5+">
+<keymap version="1" name="Robbie's Mac OS X 10.5" parent="Mac OS X 10.5+">
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="shift control O" />
   </action>
