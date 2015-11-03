@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="service-registry" />
     <option name="defaultScopeName" value="service-registry" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="service-registry" />
     <recentFileMasks>
       <mask>*.properties</mask>
