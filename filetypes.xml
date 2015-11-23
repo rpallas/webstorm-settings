@@ -4,11 +4,11 @@
     <extensionMap>
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern="minion" type="JavaScript" />
-      <mapping pattern="blahoutput" type="PLAIN_TEXT" />
       <mapping pattern="-t" type="PLAIN_TEXT" />
       <mapping pattern="consoleoutput" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="runner" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="blahoutput" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="consoleDocs" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
