@@ -882,6 +882,10 @@
         <option name="FOREGROUND" value="7587a6" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
@@ -1121,6 +1125,8 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
+    <option name="PUPPET_HEREDOC_BODY" baseAttributes="TEXT" />
+    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PUPPET_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cda869" />
