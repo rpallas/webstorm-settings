@@ -995,6 +995,9 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
+    <option name="MARKDOWN.BOLD" baseAttributes="DEFAULT_STRING" />
+    <option name="MARKDOWN.ITALIC" baseAttributes="DEFAULT_STRING" />
+    <option name="MARKDOWN.STRIKETHROUGH" baseAttributes="DEFAULT_STRING" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a6da0" />
