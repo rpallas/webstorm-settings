@@ -21,10 +21,6 @@
         <option name="BACKGROUND" value="6e3b3b" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="743d3d" />
@@ -214,7 +210,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="8598b6" />
@@ -235,7 +230,6 @@
         <option name="FOREGROUND" value="6ba3ad" />
       </value>
     </option>
-    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffb3b3" />
@@ -292,7 +286,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="f3cc6d" />
@@ -882,10 +875,6 @@
         <option name="FOREGROUND" value="7587a6" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5f5a60" />
@@ -999,9 +988,6 @@
         <option name="FOREGROUND" value="9b703f" />
       </value>
     </option>
-    <option name="MARKDOWN.BOLD" baseAttributes="DEFAULT_STRING" />
-    <option name="MARKDOWN.ITALIC" baseAttributes="DEFAULT_STRING" />
-    <option name="MARKDOWN.STRIKETHROUGH" baseAttributes="DEFAULT_STRING" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a6da0" />
@@ -1125,8 +1111,6 @@
         <option name="FOREGROUND" value="cf6a4c" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_BODY" baseAttributes="TEXT" />
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PUPPET_KEYWORD">
       <value>
         <option name="FOREGROUND" value="cda869" />
