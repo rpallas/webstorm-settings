@@ -1,12 +1,12 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_62" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_63" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_64" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_65" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_66" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_67" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_68" value="TEXT" />
   </component>
 </application>
