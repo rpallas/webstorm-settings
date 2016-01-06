@@ -66,6 +66,10 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="0.10.40" last-modified="1452088820000" />
+    <node-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" version="0.10.32" last-modified="1410988846000" />
+  </component>
   <component name="SystemNotifications">
     <option name="NOTIFICATIONS">
       <set>
