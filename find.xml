@@ -16,6 +16,8 @@
       <mask>!node_modules</mask>
       <mask>-node_modules/*</mask>
       <mask>*node_modules/*</mask>
+      <mask>*rebaseline*</mask>
+      <mask>*_rebaseline_*</mask>
     </recentFileMasks>
   </component>
 </application>

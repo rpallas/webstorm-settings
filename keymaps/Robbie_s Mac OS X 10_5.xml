@@ -1,83 +1,83 @@
 <keymap version="1" name="Robbie's Mac OS X 10.5" parent="Mac OS X 10.5+">
   <action id="$LRU">
-    <keyboard-shortcut first-keystroke="shift control O" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt F12" />
-    <keyboard-shortcut first-keystroke="meta BACK_SLASH" />
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta alt LEFT" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="CloseProject">
-    <keyboard-shortcut first-keystroke="shift meta W" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="Editor LRU">
-    <keyboard-shortcut first-keystroke="shift control O" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="EditorPageDown">
-    <keyboard-shortcut first-keystroke="PAGE_DOWN" />
-    <keyboard-shortcut first-keystroke="control alt PERIOD" />
-    <keyboard-shortcut first-keystroke="meta alt DOWN" />
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
+    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="EditorPageDownWithSelection">
-    <keyboard-shortcut first-keystroke="shift PAGE_DOWN" />
-    <keyboard-shortcut first-keystroke="shift control alt PERIOD" />
-    <keyboard-shortcut first-keystroke="shift meta alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+    <keyboard-shortcut first-keystroke="shift meta alt down" />
   </action>
   <action id="EditorPageUp">
-    <keyboard-shortcut first-keystroke="PAGE_UP" />
-    <keyboard-shortcut first-keystroke="control alt COMMA" />
-    <keyboard-shortcut first-keystroke="meta alt UP" />
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+    <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="EditorPageUpWithSelection">
-    <keyboard-shortcut first-keystroke="shift PAGE_UP" />
-    <keyboard-shortcut first-keystroke="shift control alt ENTER" />
-    <keyboard-shortcut first-keystroke="shift meta alt UP" />
+    <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+    <keyboard-shortcut first-keystroke="shift meta alt up" />
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta alt RIGHT" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="NextDiff">
-    <keyboard-shortcut first-keystroke="F7" />
-    <keyboard-shortcut first-keystroke="shift meta BACK_SLASH" />
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt TAB" />
-    <keyboard-shortcut first-keystroke="meta CLOSE_BRACKET" />
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="alt O" />
+    <keyboard-shortcut first-keystroke="alt o" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift alt TAB" />
-    <keyboard-shortcut first-keystroke="meta OPEN_BRACKET" />
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="PreviousDiff">
-    <keyboard-shortcut first-keystroke="shift F7" />
-    <keyboard-shortcut first-keystroke="shift meta QUOTE" />
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="control alt ENTER" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="control alt DOWN" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="control alt LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="control alt UP" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="shift alt D" />
+    <keyboard-shortcut first-keystroke="shift alt d" />
   </action>
 </keymap>
