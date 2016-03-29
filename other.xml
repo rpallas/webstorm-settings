@@ -66,8 +66,12 @@
     <option name="KEEP_ITN_PASSWORD" value="false" />
     <option name="EMAIL" value="" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.10.40" last-modified="1453903837000" />
+    <node-interpreter path="/usr/local/bin/node" version="0.10.40" last-modified="1458046011000" />
     <node-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" version="0.10.32" last-modified="1410988846000" />
   </component>
   <component name="SystemNotifications">
