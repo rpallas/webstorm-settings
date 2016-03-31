@@ -2,8 +2,8 @@
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-01" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-02" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/osn-migration.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_62" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_63" value="JSON" />
@@ -13,15 +13,16 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_67" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_68" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_69" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_70" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_71" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_70" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_71" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_72" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_73" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_74" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_75" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_76" value="Bash" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_77" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_73" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_74" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_75" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_76" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_77" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_78" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_79" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_80" value="JSON" />
   </component>
 </application>
