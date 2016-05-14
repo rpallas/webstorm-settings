@@ -12,6 +12,10 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
+  <JSCodeStyleSettings>
+    <option name="ALIGN_MULTILINE_VAR_DECLARATION" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -22,6 +26,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
