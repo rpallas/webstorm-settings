@@ -5,6 +5,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/osn-migration.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_62" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_63" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_64" value="TEXT" />
