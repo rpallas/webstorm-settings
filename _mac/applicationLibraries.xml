@@ -1,0 +1,17 @@
+<application>
+  <component name="libraryTable">
+    <library name="mocha" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="node_modules" />
+        <option name="frameworkVersion" value="2.5.3" />
+        <sourceFilesUrls>
+          <item url="file:///usr/local/lib/node_modules/mocha" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///usr/local/lib/node_modules/mocha" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
