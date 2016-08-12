@@ -13,5 +13,16 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="mui" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.muicss.com_mui-0.2.1_js_mui.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.muicss.com_mui-0.2.1_js_mui.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
   </component>
 </application>
