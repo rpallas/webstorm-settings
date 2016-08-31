@@ -10,7 +10,7 @@
     <notification groupId="JavaScript debugger" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="JavaScript Library Management" displayType="STICKY_BALLOON" />
     <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
-    <notification groupId="Platform and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" shouldLog="false" />
     <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
     <notification groupId="Test Runner" displayType="NONE" />
     <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />

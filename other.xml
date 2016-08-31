@@ -1,0 +1,6 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node" />
+  </component>
+</application>
