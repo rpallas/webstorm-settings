@@ -1,6 +1,9 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="VimPluginToggle">
+        <abbreviation name="vim" />
+      </action>
       <action id="ShowUmlDiagram" />
     </abbreviations>
   </component>
