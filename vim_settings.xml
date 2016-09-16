@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1474061785455">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/show-me-the-json/views/settings.hbs" timestamp="1474061334988">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
