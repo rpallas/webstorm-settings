@@ -3,7 +3,6 @@
     <variable name="TARGET" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
-      <option name="JADE" value="true" />
     </context>
   </template>
 </templateSet>
