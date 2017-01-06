@@ -1,12 +1,12 @@
 <application>
   <component name="ScratchFileService">
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/GO_config_20170106.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/create_omai_subscriptions.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-01" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-02" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/osn-migration.js" value="JavaScript" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/pipeline_full_GO_config_20170106.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/pipeline_sequoia-nodejs-docker-acceptance-in-repo.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/pipeline_sequoia-nodejs-docker.xml" value="XML" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/pipeline_sequoia-transition-nodejs-docker-acceptance-in-repo.xml" value="XML" />
