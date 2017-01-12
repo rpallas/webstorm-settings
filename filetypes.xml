@@ -5,6 +5,7 @@
       <mapping pattern=".farmerrc" type="JSON" />
       <mapping pattern=".bowerrc" type="JSON" />
       <mapping pattern="minion" type="JavaScript" />
+      <mapping pattern="maxdome-post-process" type="JavaScript" />
       <mapping pattern="buildLabel" type="PLAIN_TEXT" />
       <mapping pattern="100" type="PLAIN_TEXT" />
       <mapping pattern="consoleoutput" type="PLAIN_TEXT" />
