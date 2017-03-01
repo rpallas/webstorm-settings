@@ -4,6 +4,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-01" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-02" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/eslint-actual-config.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/osn-migration.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/pipeline_full_GO_config_20170106.xml" value="XML" />
@@ -47,7 +48,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_21.txt" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_22.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_23.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.txt" value="TEXT" />
