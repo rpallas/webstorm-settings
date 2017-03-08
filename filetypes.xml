@@ -13,6 +13,7 @@
       <mapping pattern="Makefile-service" type="PLAIN_TEXT" />
       <mapping pattern="runner" type="PLAIN_TEXT" />
       <mapping pattern="load" type="PLAIN_TEXT" />
+      <mapping pattern="wrapper" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".index.js.swp" type="PLAIN_TEXT" />
