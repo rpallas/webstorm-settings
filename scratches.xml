@@ -1,5 +1,6 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/async-flow.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/create_omai_subscriptions.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-01" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-02" value="TEXT" />
