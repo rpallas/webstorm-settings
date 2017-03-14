@@ -4,6 +4,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/create_omai_subscriptions.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-01" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-02" value="TEXT" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete-airside.sh" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/eslint-actual-config.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="TEXT" />
