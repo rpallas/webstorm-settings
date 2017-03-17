@@ -1,10 +1,12 @@
 <application>
   <component name="ScratchFileService">
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/airside-delete-static-data-FND-2000.sh" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/airside-rollback-static-data-FND-2000.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/async-flow.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/create_omai_subscriptions.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-01" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/debugging-identity-on-agent-02" value="TEXT" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete-airside.sh" value="Bash" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete-airside-first-draft.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/delete_server_log_files" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/eslint-actual-config.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/omai-data-export-runner-script-for-testing.sh" value="TEXT" />
@@ -45,7 +47,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_19.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_20.txt" value="TEXT" />
@@ -57,7 +58,6 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_24.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
-    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.sh" value="Bash" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" value="JavaScript" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" value="JSON" />
