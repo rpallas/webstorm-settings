@@ -71,7 +71,7 @@
       <version-cache version="7.1.0" last-modified="1478631212000" />
     </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="7.7.3" last-modified="1490128502000" />
+      <version-cache version="6.10.1" last-modified="1490139433000" />
       <npm-package value="/usr/local/lib/node_modules/npm" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node">
